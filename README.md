@@ -28,7 +28,7 @@ Explanation quality is subjective and can depend on the intended use. Our choice
 
 
 # Sources
-ACORN contains a blend of explanations from several sources. See Section 2.2 in the [paper](...) for a more detailed explanation.
+ACORN contains a blend of explanations from several sources. See Section 2.2 in the [paper](...) for a more detailed overview.
 
 ![ACORN contains samples from ECQA, CoS-E, COPA-SSE, generated explanations for Commonsense QA, generated explanations for Balanced COPA, newly collected explanations for Balanced COPA, and GPT-3.5 edited versions of CoS-E and COPA-SSE. Each group has 500 samples, totaling 3500 samples.](/readme/Data_sources.png)
 

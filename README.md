@@ -1,5 +1,3 @@
-# ACORN
-
 <img src="/readme/ACORN.png" alt="A cute illustration of an acorn character." width="50">
 
 Home repository for the dataset introduced in [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](...).*

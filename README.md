@@ -3,6 +3,8 @@
 Home repository for the dataset introduced in [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](...).*
 ACORN contains 3,500 human-written and LLM-generated explanations with aspect-wise quality ratings given by humans. 
 
+Also available on 🤗HuggingFace [here](https://huggingface.co/datasets/anab/ACORN)!
+
 ![Five human raters evaluating an explanation of the answer for a commonsense reasoning question. Ratings for 3500 explanations are aggregated into a dataset.](/readme/Illustration.png)
 
 

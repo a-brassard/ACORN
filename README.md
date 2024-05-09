@@ -56,9 +56,9 @@ If you use this dataset, please consider citing the following work.
 
 ```
 @article{brassard2024acorn,
-    title={ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation}, 
-    author={Ana Brassard and Benjamin Heinzerling and Keito Kudo and Keisuke Sakaguchi and Kentaro Inui},
-    year={2024},
-    url={https://arxiv.org/abs/2405.04818}
+  title   = {ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation},
+  author  = {Ana Brassard and Benjamin Heinzerling and Keito Kudo and Keisuke Sakaguchi and Kentaro Inui},
+  year    = {2024},
+  journal = {arXiv preprint arXiv: 2405.04818}
 }
 ```

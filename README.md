@@ -1,14 +1,12 @@
 <img src="/readme/ACORN.png" alt="A cute illustration of an acorn character." width="50">
 
-Home repository for the dataset introduced in [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](...).*
+Home repository for the dataset introduced in [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](https://arxiv.org/abs/2405.04818).
 ACORN contains 3,500 human-written and LLM-generated explanations with aspect-wise quality ratings given by humans. 
 
 Also available on 🤗HuggingFace [here](https://huggingface.co/datasets/anab/ACORN)!
 
 ![Five human raters evaluating an explanation of the answer for a commonsense reasoning question. Ratings for 3500 explanations are aggregated into a dataset.](/readme/Illustration.png)
 
-
-\*The link will be updated when the paper is published.
 
 # Data
 The entire dataset is contained in `ACORN.jsonl`. Each row consists of an explanation, related information, aggregated (majority-voted) ratings, and the full set of individual worker ratings. 
@@ -31,7 +29,7 @@ Explanation quality is subjective and can depend on the intended use. Our choice
 
 
 # Sources
-ACORN contains a blend of explanations from several sources. See Section 2.2 in the [paper](...) for a more detailed overview.
+ACORN contains a blend of explanations from several sources. See Section 2.2 in the [paper](https://arxiv.org/abs/2405.04818) for a more detailed overview.
 
 ![ACORN contains samples from ECQA, CoS-E, COPA-SSE, generated explanations for Commonsense QA, generated explanations for Balanced COPA, newly collected explanations for Balanced COPA, and GPT-3.5 edited versions of CoS-E and COPA-SSE. Each group has 500 samples, totaling 3500 samples.](/readme/Data_sources.png)
 

@@ -16,7 +16,7 @@ Basic fields:
 - `choices` list of answer choices
 - `label` correct answer index
 - `explanation` explanation text
-- `supports`, `overall`, `well_written`, `related`, `factual`, `new_info`, `unnecessary_info`, `contrastive` majority-voted ratings
+- `voted_ratings` majority-voted ratings
 - `worker_ratings` all worker ratings, saved as a dictionary of dictionaries (worker id → rating dict).
 
 → See [Additional fields](#additional-fields) for the full list of fields.

@@ -1,4 +1,4 @@
-<img src="/readme/ACORN.png" alt="A cute illustration of an acorn character." width="50">
+# <img src="/readme/ACORN.png" alt="A cute illustration of an acorn character." width="50"> ACORN
 
 Home repository for the dataset introduced in [ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation](https://arxiv.org/abs/2405.04818).
 ACORN contains 3,500 human-written and LLM-generated explanations with aspect-wise quality ratings given by humans. 

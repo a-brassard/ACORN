@@ -55,10 +55,14 @@ In addition to the fields listed in [Files](#files), the dataset contains the fo
 If you use this dataset, please consider citing the following work.
 
 ```
-@article{brassard2024acorn,
-  title   = {ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation},
-  author  = {Ana Brassard and Benjamin Heinzerling and Keito Kudo and Keisuke Sakaguchi and Kentaro Inui},
-  year    = {2024},
-  journal = {arXiv preprint arXiv: 2405.04818}
+@INPROCEEDINGS{Brassard2024-xi,
+  title     = "{{ACORN}: Aspect-wise Commonsense Reasoning Explanation
+               Evaluation}",
+  author    = "Brassard, Ana and Heinzerling, Benjamin and Kudo, Keito and
+               Sakaguchi, Keisuke and Inui, Kentaro",
+  booktitle = "{First Conference on Language Modeling}",
+  year      =  2024,
+  url       = "https://openreview.net/forum?id=2oHnsM9M9D"
 }
+
 ```
